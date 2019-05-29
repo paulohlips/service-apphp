@@ -1,4 +1,4 @@
-# Couse
+# Course
 
 ##### Endpoint
 
